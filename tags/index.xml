@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Splendre</title>
-    <link>http://example.org/tags/</link>
+    <link>https://hemanth7787.github.io/splendre/tags/</link>
     <description>Recent content in Tags on Splendre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hemanth7787.github.io/splendre/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
